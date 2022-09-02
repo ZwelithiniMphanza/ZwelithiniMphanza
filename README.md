@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zwelithini Joseph Mphanza</h1>
-<h3 align="center">I'm an avid Software Engineer.Every day is a learning day for me.</h3>
+<h3 align="center">I'm an avid Software Engineer. Every day is a learning day for me.</h3>
 
 - 🌱 Have being developing Fintech apps for 5 years straight.**
 
